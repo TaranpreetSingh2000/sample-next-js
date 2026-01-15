@@ -56,7 +56,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Documentation for next js application
+            Documentation for next js application and its require and optional check
           </a>
         </div>
       </main>
