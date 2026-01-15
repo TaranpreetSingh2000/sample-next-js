@@ -56,7 +56,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Documentation
+            Documentation on time appears as it aopears
           </a>
         </div>
       </main>
